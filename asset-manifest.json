@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pixel-rem-tailwind/static/css/main.3df88e7e.css",
-    "main.js": "/pixel-rem-tailwind/static/js/main.3d32e3e9.js",
+    "main.js": "/pixel-rem-tailwind/static/js/main.c1fc93c0.js",
     "index.html": "/pixel-rem-tailwind/index.html",
     "main.3df88e7e.css.map": "/pixel-rem-tailwind/static/css/main.3df88e7e.css.map",
-    "main.3d32e3e9.js.map": "/pixel-rem-tailwind/static/js/main.3d32e3e9.js.map"
+    "main.c1fc93c0.js.map": "/pixel-rem-tailwind/static/js/main.c1fc93c0.js.map"
   },
   "entrypoints": [
     "static/css/main.3df88e7e.css",
-    "static/js/main.3d32e3e9.js"
+    "static/js/main.c1fc93c0.js"
   ]
 }
