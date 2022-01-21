@@ -2,7 +2,7 @@
   "name": "px-to-rem-tailwind",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://anythingultimate.github.io/pixel-rem-tailwind",
+  "homepage": "https://anythingultimate.github.io/pixel-rem-tailwind",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",

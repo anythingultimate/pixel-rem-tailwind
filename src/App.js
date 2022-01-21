@@ -4,7 +4,7 @@ import BaseComponent from "./components/BaseComponent";
 
 function App() {
   const [rootPx, setRootPx] = useState("16");
-  const [pxInput, setPxInput] = useState("");
+  const [pxInput, setPxInput] = useState("1");
   const randomColor = [
     "bg-slate-100",
     "bg-red-100",
